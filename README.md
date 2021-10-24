@@ -3,6 +3,8 @@
 Live site: https://jeng200.github.io/moonbase-alpha-webpage/
 
 Image credits:
+Moon2: Photo by Pixabay on <a href"https://www.pexels.com/photo/full-moon-during-night-time-53153/">Pexels</a>
+
 Astronaut Floating in Space: Photo by <a href="https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> on <a href="https://unsplash.com/s/photos/astronaut-floating-in-space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Inside Space Capsule: Photo by <a href="https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> on <a href="https://unsplash.com/s/photos/inside-space-capsule?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

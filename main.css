@@ -1,4 +1,97 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
 img {
-  width: 300px;
-  height: auto;
+  max-width: 100%;
+}
+
+body {
+  font-family: Cochin, Georgia, serif;
+  color: whitesmoke;
+  background: black;
+  font-size: 21px;
+}
+
+h1, h2, h3 {
+  font-weight: 900;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+a {
+  color: blue;
+}
+
+a:hover{
+  cursor: hand;
+  color: rgb(101, 101, 226);
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  background: whitesmoke;
+  padding: 10px 15px;
+}
+
+.btn:hover {
+  color: rgb(3, 3, 43);
+}
+
+.hero {
+  text-align: left;
+  background-image: url("img/moon2.jpg");
+  background-size: cover;
+  padding: 10%;
+}
+
+header, section {
+  padding: 2%;
+}
+
+.accent-bg {
+  background: rgb(40, 40, 240);
+}
+
+.accent-bg .btn:hover {
+  background:rgb(23, 190, 231);
+  color: black;
+}
+
+.text-accent {
+  color: yellow;
+}
+
+.container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.columns {
+  display: flex;
+  align-items: baseline;
+}
+
+.col {
+  margin: 5px 20px;
+  padding: 20px;
 }
